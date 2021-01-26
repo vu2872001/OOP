@@ -1,0 +1,14 @@
+C:\Users\HAI DU\Desktop\hxp chet vl\BAI GIU XE\BAI GIU XE\bin\Debug\BAI GIU XE.exe.config
+C:\Users\HAI DU\Desktop\hxp chet vl\BAI GIU XE\BAI GIU XE\bin\Debug\BAI GIU XE.exe
+C:\Users\HAI DU\Desktop\hxp chet vl\BAI GIU XE\BAI GIU XE\bin\Debug\BAI GIU XE.pdb
+C:\Users\HAI DU\Desktop\hxp chet vl\BAI GIU XE\BAI GIU XE\obj\Debug\BAI GIU XE.csprojAssemblyReference.cache
+C:\Users\HAI DU\Desktop\hxp chet vl\BAI GIU XE\BAI GIU XE\obj\Debug\BAI GIU XE.csproj.CoreCompileInputs.cache
+C:\Users\HAI DU\Desktop\hxp chet vl\BAI GIU XE\BAI GIU XE\obj\Debug\BAI GIU XE.exe
+C:\Users\HAI DU\Desktop\hxp chet vl\BAI GIU XE\BAI GIU XE\obj\Debug\BAI GIU XE.pdb
+C:\Users\HAI DU\Desktop\BAI GIU XE\BAI GIU XE\obj\Debug\BAI GIU XE.csprojAssemblyReference.cache
+C:\Users\HAI DU\Desktop\BAI GIU XE\BAI GIU XE\obj\Debug\BAI GIU XE.csproj.CoreCompileInputs.cache
+C:\Users\HAI DU\Desktop\BAI GIU XE\BAI GIU XE\obj\Debug\BAI GIU XE.exe
+C:\Users\HAI DU\Desktop\BAI GIU XE\BAI GIU XE\obj\Debug\BAI GIU XE.pdb
+C:\Users\HAI DU\Desktop\BAI GIU XE\BAI GIU XE\bin\Debug\BAI GIU XE.exe.config
+C:\Users\HAI DU\Desktop\BAI GIU XE\BAI GIU XE\bin\Debug\BAI GIU XE.exe
+C:\Users\HAI DU\Desktop\BAI GIU XE\BAI GIU XE\bin\Debug\BAI GIU XE.pdb
